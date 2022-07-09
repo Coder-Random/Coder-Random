@@ -66,7 +66,7 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.com/users/724786271855050854">
-        <img title="Lazy Development discord" alt="Lazy's discord" src="[https://discord.c99.nl/widget/theme-4/LazyRQ#1301.png](https://discord.c99.nl/widget/theme-1/LazyRQ#1301.png)"/>
+        <img title="Lazy Development discord" alt="Lazy's discord" src="(https://discord.c99.nl/widget/theme-1/LazyRQ#1301.png)"/>
     </a>
 </p>
 
