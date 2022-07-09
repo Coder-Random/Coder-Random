@@ -39,9 +39,9 @@
 
 <h2 align="center">Contact me</h2>
 
-📞・Discord : [Lazy Development](https://discord.gg/MzGP2VD2Vc))
+📞・Discord : [Lazy Development](https://discord.gg/MzGP2VD2Vc)
 
-✔️・Full Stack Developer
+✔️・FiveM Server Developer and Script Developer
 
 📮・The languages I use during FiveM Development. HTML, LUA, JS, CSS, SQL
 
