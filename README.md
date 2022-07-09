@@ -16,24 +16,14 @@
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=LazyRQ&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/LazyRQ)
 <hr>
 
-  
-
-  
-</p>
-<p align="center">
-<img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="300" align/>
-</p>
-
-
 <h2 align="center">Programming languages that i mainly use.</h2>
 <p align="center">
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
-  <img alt="c++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a>  
+  <img alt="Html" src="https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html%2b%2b&logoColor=6296CC"></a>  
   <img alt="Sql" src="https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B"></a>
-   <img alt="Lua" src="https://img.shields.io/badge/-Lua-090909?style=for-the-badge&logo=lua&logoColor=00648B"></a>
+  <img alt="Lua" src="https://img.shields.io/badge/-Lua-090909?style=for-the-badge&logo=lua&logoColor=00648B"></a>
+  <img alt="Css" src="https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css&logoColor=00648B"></a>
 </p>
-
-
 
 <h2 align="center">My github profile stastictics.</h2>
 
@@ -49,11 +39,11 @@
 
 <h2 align="center">Contact me</h2>
 
-💢・Discord : [Lazy Development](https://discord.gg/7vVb9g7FGT)
+📞・Discord : [Lazy Development](https://discord.gg/MzGP2VD2Vc))
 
 ✔️・Full Stack Developer
 
-📮・The language I'm good at C++  C#  LUA  Python  HTML JAVA
+📮・The languages I use during FiveM Development. HTML, LUA, JS, CSS, SQL
 
 </pre><br>
 
