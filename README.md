@@ -8,7 +8,7 @@
 </p>
 <p align="center">
     <a href="">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-LazyRQ%237522-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-LazyRQ%231301-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/LazyRQ">
    <img alt="Github" src="https://img.shields.io/github/followers/LazyRQ?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
