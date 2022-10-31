@@ -22,6 +22,6 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=random-coder&show_icons=true&locale=en" alt="random-coder" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=random-coder&" alt="random-coder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=random-coder&" alt="random-coder" /></p>
 
 <h2 align="center"> Copyright © 2019 - 2022
