@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=random-coder" alt="random-coder" /></a> </p>
 
+- 🔭 I’m currently working on [React-Projects](https://github.com/Coder-Random/React-Projects)
+
+- 🌱 I’m currently learning **React, C++, and C#**
+
+- 👯 I’m looking to collaborate on [FiveM-Projects](https://github.com/Coder-Random/FiveM-Projects)
+
+- 📫 How to reach me **RandomCoder#0001**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
