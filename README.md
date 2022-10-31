@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React, C++, and C#**
 
-- 👯 I’m looking to collaborate on [FiveM-Projects](https://github.com/Coder-Random/FiveM-Projects)
-
 - 📫 How to reach me **RandomCoder#0001**
 
 <h3 align="left">Connect with me:</h3>
