@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [React-Projects](https://github.com/Coder-Random/React-Projects)
 
-- 🌱 I’m currently learning **React, C++, and C#**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **RandomCoder#5893**
 
