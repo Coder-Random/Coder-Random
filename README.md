@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **RandomCoder#5893**
+- 📫 How to reach me **randomcoder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
