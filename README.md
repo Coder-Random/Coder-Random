@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Random Coder</h1>
+<h1 align="center">Hi 👋, I'm Random</h1>
 <h3 align="center">Developer from United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=random-coder&label=Profile%20views&color=0e75b6&style=flat" alt="random-coder" /> </p>
