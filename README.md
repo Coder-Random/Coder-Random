@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Random</h1>
 <h3 align="center">Developer from United States</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OvertimeDev-Random&label=Profile%20views&color=0e75b6&style=flat" alt="random-coder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OvertimeDev-Random&label=Profile%20views&color=0e75b6&style=flat" alt="OvertimeDev-Random" /> </p>
 
 - 🔭 I’m currently working on [React-Projects](https://github.com/Coder-Random/React-Projects)
 
